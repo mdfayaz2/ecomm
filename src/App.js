@@ -25,7 +25,7 @@ let elements = [];
     return (
         <div>
           <center><h1>Coffee Shop</h1></center> 
-          <marque><h3>Welcome</h3></marque><hr></hr>
+          <marque><h3><i>Welcome</i></h3></marque><hr></hr>
             <div className='main1'> 
                 {elements}
             </div>  
