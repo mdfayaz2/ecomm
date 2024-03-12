@@ -19,10 +19,6 @@ root.render(
   //   <App4 />
   // </React.StrictMode>
 
-  // <React.StrictMode>
-  //   <App5 />
-  // </React.StrictMode>
-
   <React.StrictMode>
     <App />
  </React.StrictMode>
